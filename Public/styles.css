@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 
-html, body {
-    width: 100%;
-    overflow-x: hidden;
-    background-color: #fff3ff;
-    font-family: 'Lato', sans-serif;
+body {
+    background-color: #fff6ff !important;
+    font-family: 'Lato' !important;
 }
 
 .fade-in {
@@ -95,7 +93,12 @@ nav {
 
 .nav-links .nav-link {
     color: inherit !important;
-    padding: 12px 10px !important;
+    padding: 10px 10px !important;
+}
+
+.navbar-toggler {
+    background-color: #00000000;
+    scale: 0.85;
 }
 
 .hero {
@@ -158,6 +161,7 @@ nav {
         opacity: 0;
         transform: translateY(70px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -226,6 +230,12 @@ nav {
     box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
 }
 
+.filter-btn:active {
+    background: linear-gradient(135deg, #4B164C, #9a2e9c);
+    border: 2px solid #ffffff;
+    color: #fff;
+}
+
 .mirror-gallery {
     padding: 40px 0;
     margin-top: 30px;
@@ -233,10 +243,9 @@ nav {
 }
 
 .mirror-item {
-    transform: scale(0.7);
+    transform: scale(0.8);
     opacity: 0;
     transition: transform 0.5s ease-out, opacity 0.5s ease-out;
-    transform-origin: top left;
 }
 
 .mirror-item.show {
@@ -265,7 +274,7 @@ nav {
 
 .card-img-top {
     width: 100%;
-    height: 200px;
+    height: 270px;
     object-fit: cover;
     border-radius: 10px;
 }
@@ -302,11 +311,22 @@ nav {
     background-position: right bottom !important;
 }
 
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
 
 .container,
 .container-fluid {
     max-width: 100%;
     overflow: hidden;
+}
+
+.navbar {
+    width: 100%;
 }
 
 .mirror-gallery {
@@ -361,67 +381,11 @@ nav {
 #backToTop:hover i {
     transform: translateY(-2px);
 }
+
 .contact-section {
-    padding: 50px;
+    padding: 25px;
 }
 
-.contact-section h2 {
-    color: #4B164C;
-    font-size: 38px;
-}
-
-.contact-section h2 span {
-    color: #9a2e9c;
-    font-size: 38px;
-}
-
-.form-control:focus {
-    box-shadow: 0 0 0 0.1rem rgba(75, 22, 76, 0.25);
-    border: #4B164C !important;
-    outline: #760078 !important;
-}
-
-.btn-dark {
-    background: linear-gradient(135deg, #4B164C, #9a2e9c) !important;
-    transition: background-position 0.3s ease-in-out, transform 0.3s ease-in-out;
-    background-size: 140% 200%;
-    border: none !important;
-    border-radius: 30px !important;
-    padding: 12px 24px !important;
-}
-
-.btn-dark:hover {
-    background-position: right bottom;
-    transform: scale(1.05);
-    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
-}
-
-/* Fix iframe responsiveness */
-.map-container {
-    width: 100%;
-    max-width: 500px; /* Ensures it doesn’t get too large */
-    margin: 0 auto; /* Centers it */
-    position: relative;
-}
-
-iframe {
-    width: 100%; /* Make it responsive */
-    height: 350px; /* Adjust height */
-    border: 2px solid #ec93dd;
-    border-radius: 18px;
-    display: block;
-}
-
-/* Ensure spacing when stacked */
-@media (max-width: 768px) {
-    .contact-section .col-md-12 {
-        text-align: center;
-    }
-
-    .map-container {
-        margin-top: 20px; /* Adds space when stacked */
-    }
-}
 
 
 .about-section {
@@ -441,8 +405,8 @@ iframe {
 }
 
 .image-frame {
-    width: 480px;
-    height: 370px;
+    width: 270px;
+    height: 270px;
     border-radius: 8%;
     border: 2px solid #ec93dd;
     overflow: hidden;
@@ -450,30 +414,26 @@ iframe {
     justify-content: center;
     align-items: center;
     position: relative;
-    opacity: 0; /* Initially hidden */
-    transform: scale(0.7); /* Starts smaller */
-    transform-origin: top left; /* Animation starts from top-left */
-    transition: opacity 0.5s ease-out, transform 0.7s ease-out;
+    transition: all 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.image-frame:hover {
+    transform: scale(1.2) ;
 }
 
 .image-frame img {
-    transform: scale(1.2); /* Image starts zoomed in */
-    transition: transform 0.7s ease-out;
+    transition: all 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+    transform: scale(1.01);
 }
 
-.image-frame.show {
-    opacity: 1;
-    transform: scale(1);
+.image-frame:hover img {
+    transform: scale(calc(1/2.1)) ;
 }
-
-.image-frame.show img {
-    transform: scale(0.8); /* Image zooms out to normal */
-}
-
 
 
 .about-content {
     padding: 20px;
+    margin-top: 20px;
 }
 
 .about-content h2 {
@@ -486,7 +446,6 @@ iframe {
 .about-content h2 span {
     color: #9a2e9c;
 }
-
 
 .about-content p {
     font-size: 18px;
@@ -534,7 +493,43 @@ iframe {
     color: #ffffff !important;
 }
 
+.btn-dark {
+    background: linear-gradient(135deg, #4B164C, #9a2e9c) !important;
+    transition: background-position 0.3s ease-in-out, transform 0.3s ease-in-out;
+    background-size: 140% 200%;
+    border: none !important;
+    border-radius: 30px !important;
+    padding: 12px 24px !important;
+}
 
+.btn-dark:hover {
+    background-position: right bottom;
+    transform: scale(1.05);
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.1rem rgba(75, 22, 76, 0.25);
+    border: #4B164C !important;
+    outline: #760078 !important;
+}
+
+iframe {
+    border: 2px solid #ec93dd;
+    border-radius: 18px;
+    height: 450px;
+    width: 100%;
+}
+
+.contact-section h2 {
+    color: #4B164C;
+    font-size: 38px;
+}
+
+.contact-section h2 span {
+    color: #9a2e9c;
+    font-size: 38px;
+}
 
 .luxury-footer {
     bottom: 0;
@@ -585,19 +580,23 @@ iframe {
 
 @media (max-width: 992px) {
     nav {
-        padding: 10px 20px;
+        padding: 1px 20px;
     }
+
     .nav-links {
         flex-direction: column;
         align-items: center;
     }
+
     .nav-links li {
-        padding: 10px;
+        padding: 0px;
         font-size: 18px;
     }
+
     .about-content {
         text-align: center;
     }
+
     .about-features li {
         justify-content: center;
     }
@@ -607,45 +606,62 @@ iframe {
     .hero h1 {
         font-size: 38px;
     }
+
     .hero h1 span:first-child {
         font-size: 45px;
     }
+
     .hero h1 span:last-child {
         font-size: 30px;
     }
+
     .filter-buttons {
         flex-direction: row;
-        gap: 8px;
+        gap: 9px;
     }
+
     .filter-btn {
         font-size: 14px;
         padding: 10px 14px;
     }
+
     .about-section {
         padding: 60px 0;
     }
+
     .about-content h2 {
-        font-size: 30px;
+        font-size: 40px;
     }
+
     .about-content p {
         font-size: 16px;
     }
+
     .about-btn {
         padding: 10px 20px;
+    }
+
+    .mirror-filters>h2,
+    span {
+        font-size: 40px;
+
     }
 }
 
 @media (max-width: 576px) {
     .hero {
-        height: 75vh;
+        height: 62vh;
     }
+
     .hero h1 {
         font-size: 30px;
     }
+
     .hero h1 span:first-child {
-        font-size: 38px;
+        font-size: 34px;
     }
+
     .hero h1 span:last-child {
-        font-size: 26px;
+        font-size: 27px;
     }
 }
