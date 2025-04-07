@@ -11,16 +11,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <link
-    href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
-    rel="stylesheet">
+        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
-    
+
     <link rel="shortcut icon" href="/Assets/logo/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/Public/styles.css">
 </head>
 
-<body> 
-    
+<body>
+
     <!-- Navbar -->
     <header>
         <nav class="navbar navbar-expand-lg">
@@ -29,8 +29,17 @@
 
                 <!-- Mobile Toggle Button -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span><label class="hamburger">
+                            <input type="checkbox" />
+                            <svg viewBox="0 0 32 32">
+                                <path
+                                    d="M27 10 13 10C10.8 10 9 8.2 9 6 9 3.5 10.8 2 13 2 15.2 2 17 3.8 17 6L17 26C17 28.2 18.8 30 21 30 23.2 30 25 28.2 25 26 25 23.8 23.2 22 21 22L7 22"
+                                    class="line line-top-bottom"></path>
+                                <path d="M7 16 27 16" class="line"></path>
+                            </svg>
+                        </label>
+                    </span>
                 </button>
 
                 <!-- Navbar Links -->
@@ -46,16 +55,16 @@
             </div>
         </nav>
     </header>
-    
+
     <!-- Hero Section -->
     <section class="hero">
-        <h1><span>Style Your Home, Admire Yourself</span> <span>Luxury in Every Reflection</span></h1>
+        <h1><span>Where luxury meets</span> <span>Reflection</span></h1>
     </section>
     <button id="backToTop" onclick="scrollToTop()">
         <i class="bi bi-arrow-up"></i>
     </button>
-    
-    
+
+
     <!-- Mirror Categories Filter Section -->
     <section id="Categories" class="mirror-filters ">
         <h2>Explore <span> Mirror Styles</span></h2>
@@ -71,14 +80,14 @@
             <button class="filter-btn" data-category="acrylic">Acrylic</button>
             <button class="filter-btn" data-category="metal">Metal</button>
             <button class="filter-btn" data-category="decorative">Decorative</button>
-            <button class="filter-btn" data-category="led">LED</button>
-            <button class="filter-btn" data-category="bluetooth">Bluetooth</button>
-            <button class="filter-btn" data-category="smart">Smart</button>
+            <button class="filter-btn" data-category="smart LED mirror">Samrt LED</button>
+            <button class="filter-btn" data-category="frameless">Frameless</button>
+            <button class="filter-btn" data-category="antique">Antique</button>
         </div>
     </section>
-    
-    
-    
+
+
+
     <!-- Mirror Gallery -->
     <section class="mirror-gallery  py-4">
         <div class="container pt-3">
@@ -87,7 +96,7 @@
             </div>
         </div>
     </section>
-    
+
     <!-- About Us Section -->
     <section id="about" class="about-section">
         <div class="container">
@@ -131,11 +140,12 @@
                 <h2 class="mb-4">Contact<span> Us</span></h2>
                 <p><i class="fas fa-phone"></i> +123 456 7890</p>
                 <p><i class="fas fa-envelope"></i> info@clearreflections.com</p>
-    
+
                 <form id="contactForm" class="mt-4">
                     <div class="mb-3">
                         <label for="name" class="form-label">Name</label>
-                        <input type="text" id="name" class="form-control" required>
+                        <input type="text" id="name" class="form-control" required minlength="3" pattern=".{3,}"
+                            title="Name must be at least 3 characters long" required>
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">Email</label>
@@ -148,38 +158,79 @@
                     <button type="submit" class="btn btn-dark">Send Message</button>
                 </form>
             </div>
-    
+
             <!-- Interactive Map -->
             <div class="col-lg-6 col-md-12"> <!-- Full width on small screens -->
                 <h2 class="mb-4">Find <span> Us</span></h2>
                 <div class="map-container">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3620.017148282561!2d67.0743981!3d24.8632639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33ea3db108f41%3A0x42acc4507358b160!2sAptech%20Learning%2C%20Shahrah%20e%20Faisal%20Center!5e0!3m2!1sen!2s!4v1742446376455!5m2!1sen!2s"
-                        allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
     </section>
-    
-    <!-- footer  -->
+
+    <!-- Enhanced Footer -->
     <footer class="luxury-footer">
         <div class="footer-container">
-            <div class="footer-logo">
-                <img src="/Assets/logo/finalll.png" alt="Clear Reflections">
+            <!-- Logo and Description -->
+            <div class="footer-logo-section">
+                <div class="footer-logo">
+                    <img src="/Assets/logo/finalll.png" alt="Clear Reflections">
+                </div>
+                <div class="footer-tagline">Luxury in Every Reflection</div>
+                <div class="footer-social">
+                    <a  target="_blank" href="https://www.facebook.com/login.php/"><i class="bi bi-facebook"></i> </a>
+                    <a  target="_blank" href="https://www.instagram.com/"><i class="bi bi-instagram"></i> </a>
+                    <a  target="_blank" href="https://x.com/?lang=en"><i class="bi bi-twitter"></i> </a>
+                    <a  target="_blank" href="https://www.pinterest.com/"><i class="bi bi-pinterest"></i> </a>
+                </div>
             </div>
-            <div class="footer-social">
-                <a href="#"><i class="bi bi-facebook"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-twitter"></i></a>
-                <a href="#"><i class="bi bi-youtube"></i></a>
+
+            <!-- Quick Links -->
+            <div class="footer-column">
+                <h4>Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#Categories">Mirror Collections</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Categories -->
+            <div class="footer-column">
+                <h4>Categories</h4>
+                <ul class="footer-links">
+                    <li><a href="">Bathroom Mirrors</a></li>
+                    <li><a href="#">Decorative Mirrors</a></li>
+                    <li><a href="#">Smart LED Mirrors</a></li>
+                    <li><a href="#">Wooden Framed Mirrors</a></li>
+                </ul>
+            </div>
+
+            <!-- Newsletter -->
+            <div class="footer-column">
+                <h4>Stay Connected</h4>
+                <p>Subscribe to receive updates on our latest collections and exclusive offers.</p>
+                <div class="footer-newsletter">
+                    <form class="newsletter-form">
+                        <input type="email" class="newsletter-input" placeholder="Your Email Address" required>
+                        <button type="submit" class="newsletter-btn">
+                            <i class="bi bi-send"></i>
+                        </button>
+                    </form>
+                </div>
             </div>
         </div>
+
+        <!-- Copyright -->
         <div class="footer-bottom">
             <p>&copy; 2025 Clear Reflections. All Rights Reserved.</p>
         </div>
     </footer>
-    
+
     <script src="/Public/script.js"></script>
 </body>
 
