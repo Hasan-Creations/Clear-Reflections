@@ -3,577 +3,673 @@
         "name": "Luxe Drawing Mirror",
         "category": "drawing-room",
         "description": "A sophisticated mirror perfect for your drawing room.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/01.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "drawing-room",
         "description": "A stylish mirror that complements modern decor.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/02.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Grandeur",
         "category": "drawing-room",
         "description": "An ornate mirror with a luxurious touch.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/03.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Minimalist Beauty",
         "category": "drawing-room",
         "description": "Sleek and simple, perfect for a clean aesthetic.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/04.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Golden Glow",
         "category": "drawing-room",
         "description": "A mirror with a golden frame for elegance.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/05.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Vintage Reflection",
         "category": "drawing-room",
         "description": "A mirror with a classic vintage touch.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/06.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "drawing-room",
         "description": "A sleek and modern mirror for a minimalist space.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/07.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "drawing-room",
         "description": "A mirror with a classic and elegant design.",
-        "src": "/Assets/mirrors/Drawing Room Mirror/08.jpg"
+        "src": "/Assets/mirrors/Drawing Room Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Aqua Bathroom Mirror",
         "category": "bathroom",
         "description": "A curved mirror for a contemporary bathroom look.",
-        "src": "/Assets/mirrors/Bathroom Mirror/01.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "LED Glow",
         "category": "bathroom",
         "description": "A bathroom mirror with built-in LED lighting.",
-        "src": "/Assets/mirrors/Bathroom Mirror/02.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Fog-Free Reflection",
         "category": "bathroom",
         "description": "Designed with anti-fog technology for clear reflections.",
-        "src": "/Assets/mirrors/Bathroom Mirror/03.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Round Serenity",
         "category": "bathroom",
         "description": "A calming round mirror for a spa-like ambiance.",
-        "src": "/Assets/mirrors/Bathroom Mirror/04.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Glow",
         "category": "bathroom",
         "description": "An ultra-modern bathroom mirror with soft lighting.",
-        "src": "/Assets/mirrors/Bathroom Mirror/05.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Crystal Edge",
         "category": "bathroom",
         "description": "A sleek crystal-edged bathroom mirror.",
-        "src": "/Assets/mirrors/Bathroom Mirror/06.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "bathroom",
         "description": "A simple and modern bathroom mirror.",
-        "src": "/Assets/mirrors/Bathroom Mirror/07.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "bathroom",
         "description": "A classic bathroom mirror with a touch of elegance.",
-        "src": "/Assets/mirrors/Bathroom Mirror/08.jpg"
+        "src": "/Assets/mirrors/Bathroom Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Serene Bedroom Mirror",
         "category": "bedroom",
         "description": "A rustic bedroom mirror with vintage appeal.",
-        "src": "/Assets/mirrors/Bedroom Mirror/01.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Reflection",
         "category": "bedroom",
         "description": "An elegant mirror that adds sophistication to your space.",
-        "src": "/Assets/mirrors/Bedroom Mirror/02.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Cozy Glow",
         "category": "bedroom",
         "description": "A warm-lit mirror to enhance bedroom ambiance.",
-        "src": "/Assets/mirrors/Bedroom Mirror/03.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Edge",
         "category": "bedroom",
         "description": "A uniquely shaped mirror for a bold statement.",
-        "src": "/Assets/mirrors/Bedroom Mirror/04.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Dreamy Frame",
         "category": "bedroom",
         "description": "A beautiful mirror with an artistic touch.",
-        "src": "/Assets/mirrors/Bedroom Mirror/05.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Finish",
         "category": "bedroom",
         "description": "A luxurious bedroom mirror with a royal frame.",
-        "src": "/Assets/mirrors/Bedroom Mirror/06.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "bedroom",
         "description": "A sleek and modern bedroom mirror with a minimalist design.",
-        "src": "/Assets/mirrors/Bedroom Mirror/07.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "bedroom",
         "description": "A beautiful bedroom mirror with an elegant design.",
-        "src": "/Assets/mirrors/Bedroom Mirror/08.jpg"
+        "src": "/Assets/mirrors/Bedroom Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Glam Dressing Mirror",
         "category": "dressing",
         "description": "A full-length mirror ideal for dressing rooms.",
-        "src": "/Assets/mirrors/Dressing Mirror/01.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Hollywood Vanity",
         "category": "dressing",
         "description": "A mirror with built-in lights for professional styling.",
-        "src": "/Assets/mirrors/Dressing Mirror/02.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Ornate Gold",
         "category": "dressing",
         "description": "An opulent dressing mirror with gold detailing.",
-        "src": "/Assets/mirrors/Dressing Mirror/03.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Minimalist Frame",
         "category": "dressing",
         "description": "A sleek and modern full-length mirror.",
-        "src": "/Assets/mirrors/Dressing Mirror/04.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Glamorous Style",
         "category": "dressing",
         "description": "A stylish mirror that enhances beauty spaces.",
-        "src": "/Assets/mirrors/Dressing Mirror/05.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Sleek Silver",
         "category": "dressing",
         "description": "A slim-framed silver dressing mirror.",
-        "src": "/Assets/mirrors/Dressing Mirror/06.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxurious Marble",
         "category": "dressing",
         "description": "A marble-framed mirror for a touch of luxury.",
-        "src": "/Assets/mirrors/Dressing Mirror/07.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Wall-Mounted",
         "category": "dressing",
         "description": "A space-saving wall-mounted dressing mirror.",
-        "src": "/Assets/mirrors/Dressing Mirror/08.jpg"
+        "src": "/Assets/mirrors/Dressing Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Passage Hallway Mirror",
         "category": "hallway",
         "description": "A tall and elegant mirror for hallway decor.",
-        "src": "/Assets/mirrors/Hallway Mirror/01.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Antique Arch",
         "category": "hallway",
         "description": "A vintage arch mirror perfect for entryways.",
-        "src": "/Assets/mirrors/Hallway Mirror/02.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Rustic Charm",
         "category": "hallway",
         "description": "A wooden framed mirror for a cozy look.",
-        "src": "/Assets/mirrors/Hallway Mirror/03.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Geometric Style",
         "category": "hallway",
         "description": "A mirror with a geometric pattern frame.",
-        "src": "/Assets/mirrors/Hallway Mirror/04.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Grand Entry",
         "category": "hallway",
         "description": "A mirror designed for stylish hallways.",
-        "src": "/Assets/mirrors/Hallway Mirror/05.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Timeless Elegance",
         "category": "hallway",
         "description": "A hallway mirror with an everlasting charm.",
-        "src": "/Assets/mirrors/Hallway Mirror/06.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "hallway",
         "description": "A sleek and modern hallway mirror.",
-        "src": "/Assets/mirrors/Hallway Mirror/07.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Wall-Mounted",
         "category": "hallway",
         "description": "A space-saving wall-mounted hallway mirror.",
-        "src": "/Assets/mirrors/Hallway Mirror/08.jpg"
+        "src": "/Assets/mirrors/Hallway Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Charm Wooden Mirror",
         "category": "wooden",
         "description": "A handcrafted wooden mirror for a natural touch.",
-        "src": "/Assets/mirrors/Wooden Mirror/01.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Rustic Finish",
         "category": "wooden",
         "description": "A rustic wooden mirror for a cozy ambiance.",
-        "src": "/Assets/mirrors/Wooden Mirror/02.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimalism",
         "category": "wooden",
         "description": "A sleek wooden mirror for a modern look.",
-        "src": "/Assets/mirrors/Wooden Mirror/03.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Vintage Charm",
         "category": "wooden",
         "description": "A wooden mirror with a classic vintage touch.",
-        "src": "/Assets/mirrors/Wooden Mirror/04.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Finish",
         "category": "wooden",
         "description": "A wooden mirror with an elegant finish.",
-        "src": "/Assets/mirrors/Wooden Mirror/05.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Handcrafted Beauty",
         "category": "wooden",
         "description": "A handcrafted wooden mirror for a unique touch.",
-        "src": "/Assets/mirrors/Wooden Mirror/06.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Rustic Wooden",
         "category": "wooden",
         "description": "A rustic wooden mirror for a cozy ambiance.",
-        "src": "/Assets/mirrors/Wooden Mirror/07.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Natural Elegance",
         "category": "wooden",
         "description": "A wooden mirror that adds a touch of nature to your space.",
-        "src": "/Assets/mirrors/Wooden Mirror/08.jpg"
+        "src": "/Assets/mirrors/Wooden Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Clear Acrylic Mirror",
         "category": "acrylic",
         "description": "A sophisticated acrylic mirror for a modern look.",
-        "src": "/Assets/mirrors/Acrylic Mirror/01.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Minimalist Style",
         "category": "acrylic",
         "description": "A sleek and simple acrylic mirror.",
-        "src": "/Assets/mirrors/Acrylic Mirror/02.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Edge",
         "category": "acrylic",
         "description": "A uniquely shaped acrylic mirror for a bold statement.",
-        "src": "/Assets/mirrors/Acrylic Mirror/03.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "acrylic",
         "description": "A stylish acrylic mirror that complements modern decor.",
-        "src": "/Assets/mirrors/Acrylic Mirror/04.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Finish",
         "category": "acrylic",
         "description": "An acrylic mirror with an elegant finish.",
-        "src": "/Assets/mirrors/Acrylic Mirror/05.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Sleek Design",
         "category": "acrylic",
         "description": "A slim and stylish acrylic mirror.",
-        "src": "/Assets/mirrors/Acrylic Mirror/06.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Reflection",
         "category": "acrylic",
         "description": "An elegant acrylic mirror that adds sophistication to your space.",
-        "src": "/Assets/mirrors/Acrylic Mirror/07.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "acrylic",
         "description": "A sleek and modern acrylic mirror with a minimalist design.",
-        "src": "/Assets/mirrors/Acrylic Mirror/08.jpg"
+        "src": "/Assets/mirrors/Acrylic Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Metal Mirror",
         "category": "metal",
         "description": "A sophisticated metal-framed mirror for a modern look.",
-        "src": "/Assets/mirrors/Metal Mirror/01.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Golden Glow",
         "category": "metal",
         "description": "A mirror with a golden frame for elegance.",
-        "src": "/Assets/mirrors/Metal Mirror/02.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Touch",
         "category": "metal",
         "description": "A decorative metal mirror to enhance any space.",
-        "src": "/Assets/mirrors/Metal Mirror/03.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "metal",
         "description": "A stylish metal-framed mirror for a contemporary look.",
-        "src": "/Assets/mirrors/Metal Mirror/04.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Reflection",
         "category": "metal",
         "description": "An elegant metal mirror that adds sophistication to your space.",
-        "src": "/Assets/mirrors/Metal Mirror/05.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Finish",
         "category": "metal",
         "description": "A luxurious metal-framed mirror with a royal touch.",
-        "src": "/Assets/mirrors/Metal Mirror/06.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "metal",
         "description": "A sleek and modern metal mirror with a minimalist design.",
-        "src": "/Assets/mirrors/Metal Mirror/07.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "metal",
         "description": "A beautiful metal mirror with an elegant design.",
-        "src": "/Assets/mirrors/Metal Mirror/08.jpg"
+        "src": "/Assets/mirrors/Metal Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Aura Decorative Mirror",
         "category": "decorative",
         "description": "A decorative mirror with a vintage touch.",
-        "src": "/Assets/mirrors/Decorative Mirror/01.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Edge",
         "category": "decorative",
         "description": "A uniquely shaped decorative mirror for a bold statement.",
-        "src": "/Assets/mirrors/Decorative Mirror/02.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "decorative",
         "description": "A stylish decorative mirror that complements modern decor.",
-        "src": "/Assets/mirrors/Decorative Mirror/03.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Finish",
         "category": "decorative",
         "description": "A decorative mirror with an elegant finish.",
-        "src": "/Assets/mirrors/Decorative Mirror/04.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Sleek Design",
         "category": "decorative",
         "description": "A slim and stylish decorative mirror.",
-        "src": "/Assets/mirrors/Decorative Mirror/05.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Grandeur",
         "category": "decorative",
         "description": "An ornate decorative mirror with a luxurious touch.",
-        "src": "/Assets/mirrors/Decorative Mirror/06.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "decorative",
         "description": "A sleek and modern decorative mirror with a minimalist design.",
-        "src": "/Assets/mirrors/Decorative Mirror/07.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "decorative",
         "description": "A beautiful decorative mirror with an elegant design.",
-        "src": "/Assets/mirrors/Decorative Mirror/08.jpg"
+        "src": "/Assets/mirrors/Decorative Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Vision Smart Mirror",
         "category": "smart LED mirror",
         "description": "A high-tech mirror with a built-in display and smart features.",
-        "src": "/Assets/mirrors/Smart LED Mirror/01.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "smart LED mirror",
         "description": "A sleek smart mirror for a contemporary look.",
-        "src": "/Assets/mirrors/Smart LED Mirror/02.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Edge",
         "category": "smart LED mirror",
         "description": "A uniquely shaped smart mirror for a bold statement.",
-        "src": "/Assets/mirrors/Smart LED Mirror/03.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Finish",
         "category": "smart LED mirror",
         "description": "A smart mirror with an elegant finish.",
-        "src": "/Assets/mirrors/Smart LED Mirror/04.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Sleek Design",
         "category": "smart LED mirror",
         "description": "A slim and stylish smart mirror.",
-        "src": "/Assets/mirrors/Smart LED Mirror/05.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Reflection",
         "category": "smart LED mirror",
         "description": "An elegant smart mirror that adds sophistication to your space.",
-        "src": "/Assets/mirrors/Smart LED Mirror/06.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Minimal",
         "category": "smart LED mirror",
         "description": "A sleek and modern smart mirror with a minimalist design.",
-        "src": "/Assets/mirrors/Smart LED Mirror/07.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Reflection",
         "category": "smart LED mirror",
         "description": "A beautiful smart mirror with an elegant design.",
-        "src": "/Assets/mirrors/Smart LED Mirror/08.jpg"
+        "src": "/Assets/mirrors/Smart LED Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Infinity Frameless Mirror",
         "category": "frameless",
         "description": "A clean and simple frameless mirror for a modern touch.",
-        "src": "/Assets/mirrors/Frameless Mirror/01.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Sleek Edge",
         "category": "frameless",
         "description": "A frameless mirror with polished edges for a smooth look.",
-        "src": "/Assets/mirrors/Frameless Mirror/02.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Modern Chic",
         "category": "frameless",
         "description": "A contemporary frameless mirror perfect for modern spaces.",
-        "src": "/Assets/mirrors/Frameless Mirror/03.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Luxury Reflection",
         "category": "frameless",
         "description": "An elegant frameless mirror for a sophisticated ambiance.",
-        "src": "/Assets/mirrors/Frameless Mirror/04.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Wall-Mounted Elegance",
         "category": "frameless",
         "description": "A frameless mirror designed for a sleek, wall-mounted look.",
-        "src": "/Assets/mirrors/Frameless Mirror/05.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Artistic Cut",
         "category": "frameless",
         "description": "A uniquely cut frameless mirror for a bold statement.",
-        "src": "/Assets/mirrors/Frameless Mirror/06.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Crystal Clear",
         "category": "frameless",
         "description": "A high-quality frameless mirror with outstanding clarity.",
-        "src": "/Assets/mirrors/Frameless Mirror/07.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "Elegant Simplicity",
         "category": "frameless",
         "description": "A frameless mirror with a simple yet refined design.",
-        "src": "/Assets/mirrors/Frameless Mirror/08.jpg"
+        "src": "/Assets/mirrors/Frameless Mirror/08.png",
+        "info": "info.docx"
     },
     {
         "name": "Heritage Antique Mirror",
         "category": "antique",
         "description": "An antique mirror with an ornate, vintage design.",
-        "src": "/Assets/mirrors/Antique Mirror/01.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/01.png",
+        "info": "info.docx"
     },
     {
         "name": "Classic Gold Frame",
         "category": "antique",
         "description": "A mirror with a beautiful gold antique frame.",
-        "src": "/Assets/mirrors/Antique Mirror/02.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/02.png",
+        "info": "info.docx"
     },
     {
         "name": "Royal Grandeur",
         "category": "antique",
         "description": "An elegantly designed antique mirror for a luxurious look.",
-        "src": "/Assets/mirrors/Antique Mirror/03.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/03.png",
+        "info": "info.docx"
     },
     {
         "name": "Ornate Beauty",
         "category": "antique",
         "description": "A decorative antique mirror with intricate detailing.",
-        "src": "/Assets/mirrors/Antique Mirror/04.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/04.png",
+        "info": "info.docx"
     },
     {
         "name": "Rustic Vintage",
         "category": "antique",
         "description": "A rustic-styled antique mirror with a distressed finish.",
-        "src": "/Assets/mirrors/Antique Mirror/05.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/05.png",
+        "info": "info.docx"
     },
     {
         "name": "Hand-Carved Frame",
         "category": "antique",
         "description": "An antique mirror with a beautifully hand-carved wooden frame.",
-        "src": "/Assets/mirrors/Antique Mirror/06.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/06.png",
+        "info": "info.docx"
     },
     {
         "name": "Victorian Elegance",
         "category": "antique",
         "description": "A Victorian-style antique mirror with timeless charm.",
-        "src": "/Assets/mirrors/Antique Mirror/07.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/07.png",
+        "info": "info.docx"
     },
     {
         "name": "French Baroque",
         "category": "antique",
         "description": "An opulent antique mirror inspired by French Baroque designs.",
-        "src": "/Assets/mirrors/Antique Mirror/08.jpg"
+        "src": "/Assets/mirrors/Antique Mirror/08.png",
+        "info": "info.docx"
     }
 
 ]
